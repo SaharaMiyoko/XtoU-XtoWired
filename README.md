@@ -3,6 +3,15 @@
 
 ![icon128](https://github.com/yakisova41/xToTwitter/assets/75610521/bd404516-9d6b-472d-8e88-f00183cf8d95)
 
+# X to U
+![en](https://github.com/user-attachments/assets/5deb1df3-74ea-44ba-a037-eb6645d005e4)
+![ja](https://github.com/user-attachments/assets/97f0fc46-7b6a-4a3b-8de9-22cc946b41d6)
+![sc](https://github.com/user-attachments/assets/f538dc5c-887a-4272-b1a5-05c52bc675a3)
+![tc](https://github.com/user-attachments/assets/4e3608a3-456a-423f-836c-abc8fad418b5)
+
+
+# X to Wired
+WIP
 # X to U & X to Wired
 
 [Greasyfork](https://greasyfork.org/ja/scripts/471572-x-to-twitter)
