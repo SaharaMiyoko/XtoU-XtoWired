@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         X to Wired
-// @description  Get our Wired back from Elon.
+// @description  Replace 𝕏 to Wired(Inspired by Serial Experimental Lain).Greasyfork userscript ONLY.
 // @namespace    NTE
 // @version      2.4.2
 // @author       Origin:yakisova41 Fork:NTE
