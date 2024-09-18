@@ -3,7 +3,7 @@
 
 ![icon128](https://github.com/yakisova41/xToTwitter/assets/75610521/bd404516-9d6b-472d-8e88-f00183cf8d95)
 
-# X to U
+# X to U & X to Wired
 
 [Greasyfork](https://greasyfork.org/ja/scripts/471572-x-to-twitter)
 
