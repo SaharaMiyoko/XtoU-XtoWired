@@ -11,12 +11,17 @@
 
 
 # X to Wired
-WIP
+![ENG](https://github.com/user-attachments/assets/d8a7c287-08de-460f-9110-9af47f34dc7e)
+![JAP](https://github.com/user-attachments/assets/ceb4100e-c821-4c8a-8bdd-97bc544f6a3c)
+![TCH](https://github.com/user-attachments/assets/206623e4-8d68-48d9-8024-a4768b914837)
+![SCH](https://github.com/user-attachments/assets/24f7c74c-a37b-433f-8121-8fd295bb3e3c)
+
+
 # X to U & X to Wired
 
 X to U:[Greasyfork](https://greasyfork.org/zh-CN/scripts/509028-x-to-u)
 
-X to Wired:WIP
+X to Wired:[Greasyfork](https://greasyfork.org/zh-CN/scripts/509040-x-to-wired)
 
 X logo back to the original Twitter Bird logo
 
