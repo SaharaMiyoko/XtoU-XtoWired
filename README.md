@@ -14,9 +14,9 @@
 WIP
 # X to U & X to Wired
 
-[Greasyfork](https://greasyfork.org/ja/scripts/471572-x-to-twitter)
+X to U:[Greasyfork](https://greasyfork.org/zh-CN/scripts/509028-x-to-u)
 
-[Chrome web store](https://chrome.google.com/webstore/detail/x-to-twitter/jcgbihbakhgpbmhejamlpijhlohjhnbn?hl=ja&authuser=0)
+X to Wired:WIP
 
 X logo back to the original Twitter Bird logo
 
